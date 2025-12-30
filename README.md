@@ -7,10 +7,9 @@
 
 
 ## 사진
-<img width="810" height="448" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/e8664f7a-199b-41bc-8787-37ed6fe79b98" />
+<img width="405" height="224" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/e8664f7a-199b-41bc-8787-37ed6fe79b98" />
 
 [요구사항 정의서](https://docs.google.com/document/d/1VzyXLjJqwQZyX-jUeKYUx8Nn9bLWR6anQaBtFDBwXP8/edit?tab=t.0)
 
 
-<img src="image.png" width="300" />
 <img width="768" height="512" alt="ChatGPT_Image_2025_12_30_11_24_18" src="https://github.com/user-attachments/assets/6857892f-f320-48f8-8ee4-4be17a77fc10" />
