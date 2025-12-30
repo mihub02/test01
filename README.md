@@ -4,3 +4,8 @@
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+
+## 사진
+<img width="810" height="448" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/e8664f7a-199b-41bc-8787-37ed6fe79b98" />
+
