@@ -9,4 +9,4 @@
 ## 사진
 <img width="810" height="448" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/e8664f7a-199b-41bc-8787-37ed6fe79b98" />
 
-[요구사항 정의서](DB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88%20-%20%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4%EB%A7%8C.pdf)
+[요구사항 정의서](https://docs.google.com/document/d/1VzyXLjJqwQZyX-jUeKYUx8Nn9bLWR6anQaBtFDBwXP8/edit?tab=t.0)
